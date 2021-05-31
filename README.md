@@ -37,6 +37,7 @@
   
   ```
   {
+        "_id": "60b44734292e414274d3ab5f",      
         "nome": "Blusa Azul marinho",
         "preco": 99.90,
         "descricao": "Tamanho G Esportiva",
