@@ -1,7 +1,7 @@
 # api-kadosh
 
-<b>Integrantes:</b> Matheus Dourado Silva Barbosa
-<b>Tecnologias Utilizadas:</b>Javascript e MongoDB
+<p><b>Integrantes:</b> Matheus Dourado Silva Barbosa</p>
+<p><b>Tecnologias Utilizadas:</b>Javascript e MongoDB</p>
 
 ## Documentation
 
