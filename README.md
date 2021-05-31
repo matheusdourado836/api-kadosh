@@ -162,7 +162,9 @@
         ],
     }
   ```
+  </details>
   
+  <details>
    <summary>
     <b>Delete Pedidos</b> - <i>Deleta um pedido de uma lista de pedidos</i>
   </summary>
