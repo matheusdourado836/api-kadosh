@@ -169,6 +169,6 @@
     <b>Delete Pedidos</b> - <i>Deleta um pedido de uma lista de pedidos</i>
   </summary>
    <br/>
-  <b>Endpoint:</b> `DELETE https://localhost:3000/pedidos/:idPedido`
+  <b>Endpoint:</b> `POST https://localhost:3000/pedidos`
   <br /><br />
 </details>
