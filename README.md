@@ -21,7 +21,9 @@
         "__v": 0
     }
   ```
+  </details>
   
+  <details>
   <summary>
     <b>Get Produtos por id</b> - <i>Retorna o produto com o id fornecido</i>
   </summary>
@@ -37,7 +39,9 @@
         "descricao": "Tamanho G Esportiva",
     }
   ```
+  </details>
   
+  <details>
   <summary>
     <b>Post Produtos</b> - <i>Adiciona um produto a lista de produtos</i>
   </summary>
@@ -53,7 +57,9 @@
         "descricao": "Tamanho G Esportiva",
     }
   ```
+  </details>
   
+  <details>
   <summary>
     <b>PATCH Produtos</b> - <i>Atualiza uma informação de um produto</i>
   </summary>
@@ -71,7 +77,9 @@
         "__v": 0
     }
   ```
+  </details>
   
+  <details>
   <summary>
     <b>Delete Produtos</b> - <i>Deleta um produto de uma lista de produtos</i>
   </summary>
@@ -106,7 +114,9 @@
         "__v": 0
     }
   ```
+  </details>
   
+  <details>
   <summary>
     <b>Get Pedidos por id</b> - <i>Retorna o pedido com o id fornecido</i>
   </summary>
@@ -129,7 +139,9 @@
         "__v": 0
     }
   ```
+  </details>
   
+  <details>
   <summary>
     <b>Post Pedidos</b> - <i>Adiciona um pedido a uma lista de pedidos</i>
   </summary>
